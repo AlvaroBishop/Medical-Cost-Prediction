@@ -1,6 +1,6 @@
 # Medical-Cost-Prediction
 
-This repository is focused on predicting medical costs using linear regression models. It explores different approaches by implementing solutions with TensorFlow, scikit-learn, and PyTorch.
+This repository is focused on predicting medical costs. It explores different approaches by implementing solutions with TensorFlow, scikit-learn, and PyTorch.
 
 ## Dataset
 
